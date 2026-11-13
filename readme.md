@@ -22,7 +22,7 @@ Instructions for using the software:
 
 1. Press the run button
 2. If you don't have a run button, type: "python sevenhavens.py"
-3. Try pushing the box around and jumping between the platforms!
+3. Try pushing the box around and jumping between the platforms! (use the arrow keys or "wasd" keys)
 4. (If you die because you walked off the edge, close the window and rerun it)
 
 ## Development Environment
